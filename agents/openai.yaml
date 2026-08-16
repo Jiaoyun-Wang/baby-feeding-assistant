@@ -1,0 +1,5 @@
+interface:
+  display_name: "宝宝辅食喂养助手"
+  short_description: "记录宝宝每日喂养，判断食材安全并生成辅食菜单与风险提醒"
+  default_prompt: "使用 $baby-feeding-assistant 根据宝宝月龄、过敏史和已尝试食材，给出安全易执行的辅食建议。"
+
